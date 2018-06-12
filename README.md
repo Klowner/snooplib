@@ -1,4 +1,4 @@
-# snooplib
+# snooplib👃
 Easily list all files accessed by any command using a tiny shared library (<250 LOC) and no dependencies.
 
 ## Quick-start
